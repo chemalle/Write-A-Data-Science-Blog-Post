@@ -19,7 +19,7 @@ You will need to download Stackoverflow’s 2020 Annual Developer Survey and put
 To move the downloaded files to the specific folder, you can execute. </br>
 
 1. Stackoverflow’s 2020 data </br>
-` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv `</br>
+` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2020/survey_results_public.csv `</br>
 
 
 ## Project Motivation <a name="motivation"></a>
