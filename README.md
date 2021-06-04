@@ -11,7 +11,7 @@ Udacity nanodegree project
 
 ## Installation <a name="installation"></a>
 
-This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute: </br>
+This code runs with Python version 3.6.9 and requires some libraries, to install theses libraries you will need to execute: </br>
 ` pip install -r requirements.txt `
 
 You will need to download Stackoverflow’s 2020 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
