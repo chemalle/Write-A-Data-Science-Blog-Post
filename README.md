@@ -36,7 +36,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)
+The main findings of the code can be found at the post available [here](https://educhemalle.medium.com/what-is-the-trend-of-programming-language-in-brazil-and-how-to-use-this-movement-to-create-a-f552ea82fc09)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
