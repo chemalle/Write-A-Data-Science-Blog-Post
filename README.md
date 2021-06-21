@@ -26,7 +26,7 @@ To move the downloaded files to the specific folder, you can execute. </br>
 
 This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:</br>
 1. What programming languages are often used in Brazil to orient a business focused in Artificial Intelligence and Machine Learning? </br>
-2. What languages are next level up learning for most programmers?. </br>
+2. What languages are next level up learning for most programmers? </br>
 3. How is the relationship between the language people want to work with and those who want to learn? </br>
 
 ## File Description <a name="files"></a>
